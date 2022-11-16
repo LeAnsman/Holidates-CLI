@@ -1,5 +1,7 @@
 # Holidates
 
+Link to the [NPM Package](https://www.npmjs.com/package/@leansman/holidates)
+
 This tool will verify that the parameter is a well-formatted country name, transform it onto a two-letters country code, then perform an HTTP request to the API of the [nager.date](https://date.nager.at/) service.
 
 This package will display a list of holidays dates for a country for a certain year in a readable way in the terminal.
